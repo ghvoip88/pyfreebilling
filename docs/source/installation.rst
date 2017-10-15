@@ -615,7 +615,7 @@ Pyfreebilling installation
 
 ::
 
-        pip install -r requirements/requirements.txt
+        pip install -r requirements.txt
         python manage.py migrate
         python manage.py createsuperuser
         - (IMPORTANT : enter your username and password) --
